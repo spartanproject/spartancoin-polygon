@@ -1,0 +1,39 @@
+{
+	"compiler": {
+		"version": "0.5.17+commit.d19bba13"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Unsigned math operations with safety checks that revert on error",
+			"methods": {},
+			"title": "SafeMath"
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"SPARTANCOIN.sol": "SafeMath"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"SPARTANCOIN.sol": {
+			"keccak256": "0x9e58001d3a04c22dffda0a182df08d47fe68677ac688eea737dc40e6d6b60e7b",
+			"urls": [
+				"bzz-raw://51fb6195836fba95828fd98adb8d8782c4d7662526c52bd5bae0c81bd45eeb7d",
+				"dweb:/ipfs/QmWiRGMiED6dYw1kt7p1JXPHrMFB5euRQd7yy4qRdfpzkq"
+			]
+		}
+	},
+	"version": 1
+}
